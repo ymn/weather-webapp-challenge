@@ -2,9 +2,9 @@
 
 The purpose of this challenge is to show that your basic Javascript and general programming knowledge are sufficient enough for our intern program and that you are ready to spend time to research, learn and implement. We would like to see that you are motivated to become a part of our team and start the learning process with us. Since we do care about the time and effort you spend to show us your motivation, all participants will be rewarded with 500 Turkish Lira if the task is completed with all requirements even if you do not get to join our team at the end.
 
-**Task:** Implement a basic weather web app using Javascript, Ajax, CSS and HTML. (See Mockups Here)
+**Task:** Implement a basic weather web app using Javascript, Ajax, CSS and HTML. ([See Mockups Here](https://github.com/ymn/weather-webapp-challenge/tree/master/mockups))
 
-[![Watch Video](https://gitlab.vpn1.com/onur/weather-webapp-assignment/raw/master/mockups/nail.png)](https://www.youtube.com/watch?v=JxrJB10kuj4)
+[![SEE MOCKUPS](https://raw.githubusercontent.com/ymn/weather-webapp-challenge/master/mockups/nail.png)](https://github.com/ymn/weather-webapp-challenge/tree/master/mockups)
 
 ### The Weather app should have following features:
 - Ability to add unlimited cities by their name to a list, this list can be kept in a simple array or object. Example cities: Miami, London, Berlin, Frankfurt, Istanbul, Ankara
